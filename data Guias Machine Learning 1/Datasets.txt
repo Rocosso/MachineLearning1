@@ -1,0 +1,3 @@
+la Guia 1 requiere de los datasets inmuebles.csv y clientes.csv
+la Guia 2 importa los datasets desde internet, por eso no hay datasets aqui.
+la Guia 3 requiere de los datasets Acciones, para la actividad 1 y Titanic para la actividad 2.
